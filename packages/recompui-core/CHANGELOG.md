@@ -1,5 +1,11 @@
 # @recomp/core
 
+## 0.1.4
+
+### Patch Changes
+
+- Setup Theme And initial Button Component
+
 ## 0.1.3
 
 ### Patch Changes

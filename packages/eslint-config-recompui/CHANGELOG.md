@@ -1,5 +1,11 @@
 # eslint-config-recompui
 
+## 0.0.4
+
+### Patch Changes
+
+- Setup Theme And initial Button Component
+
 ## 0.0.3
 
 ### Patch Changes

@@ -1,0 +1,4 @@
+{
+  "typescript.tsdk": "./packages/recompui-core/node_modules/typescript/lib",
+  "js/ts.implicitProjectConfig.experimentalDecorators": true
+}

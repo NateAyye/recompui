@@ -1,10 +1,9 @@
 import { Button } from '@recompui/core';
 
-export default function Docs() {
+export default function Home() {
   return (
     <div>
-      <h1>recompui Documentation</h1>
-      <Button>Click me</Button>
+      <Button>Show on Github</Button>
     </div>
   );
 }
