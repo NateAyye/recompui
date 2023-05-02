@@ -1,5 +1,11 @@
 # @recompui/utils
 
+## 0.0.5
+
+### Patch Changes
+
+- Fixed the typescript version
+
 ## 0.0.4
 
 ### Patch Changes
