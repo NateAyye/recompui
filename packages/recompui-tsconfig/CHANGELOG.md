@@ -1,5 +1,11 @@
 # @recompui/tsconfig
 
+## 0.0.7
+
+### Patch Changes
+
+- Fixed dependencies
+
 ## 0.0.6
 
 ### Patch Changes

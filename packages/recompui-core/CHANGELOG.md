@@ -1,5 +1,11 @@
 # @recomp/core
 
+## 0.1.7
+
+### Patch Changes
+
+- Fixed dependencies
+
 ## 0.1.6
 
 ### Patch Changes

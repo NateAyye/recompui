@@ -57,8 +57,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/eslint-config-recompui
       typescript:
-        specifier: ^4.5.4
-        version: 4.9.5
+        specifier: ^4.7.4
+        version: 4.7.4
 
   packages/eslint-config-recompui:
     dependencies:

@@ -1,6 +1,6 @@
 {
   "name": "@recompui/core",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -65,9 +65,6 @@
     "@react-types/menu": "3.7.2",
     "@react-types/overlays": "3.6.4",
     "@react-types/shared": "3.15.0",
-    "@stitches/react": "^1.2.8",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "styled-components": "^5.3.10"
+    "@stitches/react": "^1.2.8"
   }
 }
