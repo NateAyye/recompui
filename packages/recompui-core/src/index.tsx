@@ -1,4 +1,3 @@
-import * as React from 'react';
 //Utils
 export { useCollator } from '@react-aria/i18n';
 // Third party
