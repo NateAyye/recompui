@@ -1,5 +1,11 @@
 # @recomp/core
 
+## 0.1.9
+
+### Patch Changes
+
+- Hopefully fixed the import problem
+
 ## 0.1.8
 
 ### Patch Changes

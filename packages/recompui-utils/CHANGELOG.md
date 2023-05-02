@@ -1,5 +1,11 @@
 # @recompui/utils
 
+## 0.0.9
+
+### Patch Changes
+
+- Hopefully fixed the import problem
+
 ## 0.0.8
 
 ### Patch Changes
