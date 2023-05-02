@@ -1,5 +1,11 @@
 # @recomp/core
 
+## 0.1.2
+
+### Patch Changes
+
+- Fixed scope error on core
+
 ## 0.1.1
 
 ### Patch Changes

@@ -1,6 +1,6 @@
 {
-  "name": "@recomp/core",
-  "version": "0.1.1",
+  "name": "@recompui/core",
+  "version": "0.1.2",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",

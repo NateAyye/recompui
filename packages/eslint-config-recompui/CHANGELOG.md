@@ -1,5 +1,11 @@
 # eslint-config-recompui
 
+## 0.0.2
+
+### Patch Changes
+
+- Fixed scope error on core
+
 ## 0.0.1
 
 ### Patch Changes
