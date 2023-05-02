@@ -1,5 +1,11 @@
 # @recompui/utils
 
+## 0.0.6
+
+### Patch Changes
+
+- Hopefully fixed the publishing issue
+
 ## 0.0.5
 
 ### Patch Changes

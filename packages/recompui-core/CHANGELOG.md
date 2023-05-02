@@ -1,5 +1,11 @@
 # @recomp/core
 
+## 0.1.6
+
+### Patch Changes
+
+- Hopefully fixed the publishing issue
+
 ## 0.1.5
 
 ### Patch Changes
