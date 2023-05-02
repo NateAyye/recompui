@@ -1,5 +1,11 @@
 # @recomp/core
 
+## 0.1.3
+
+### Patch Changes
+
+- Updated node workflows
+
 ## 0.1.2
 
 ### Patch Changes

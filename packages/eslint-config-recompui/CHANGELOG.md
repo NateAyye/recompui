@@ -1,5 +1,11 @@
 # eslint-config-recompui
 
+## 0.0.3
+
+### Patch Changes
+
+- Updated node workflows
+
 ## 0.0.2
 
 ### Patch Changes
