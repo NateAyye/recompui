@@ -1,5 +1,11 @@
 # @recomp/core
 
+## 0.1.8
+
+### Patch Changes
+
+- Updated peerDeps
+
 ## 0.1.7
 
 ### Patch Changes
